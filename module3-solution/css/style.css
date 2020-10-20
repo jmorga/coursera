@@ -47,14 +47,14 @@ ul {
   background-color: rgba(76, 0, 130, 0.288);
 }
 
-@media (min-width: 576px) {
+@media (min-width: 768px) {
   .menu,
   .navbar-toggler {
     display: none;
   }
 }
 
-@media (max-width: 575px) {
+@media (max-width: 767px) {
   .menu-content {
     border-top: rgb(31, 127, 253) 1px solid;
     border-bottom: rgb(31, 127, 253) 1px solid;
